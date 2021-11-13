@@ -27,7 +27,7 @@ stacked GaInP metasurface. For loss side normal incidence, the transmission is p
 (η&lt;sub&gt;0&lt;/sub&gt; ∼ 0.80; η&lt;sub&gt;1&lt;/sub&gt; ∼ 0.18). In contrast, for gain side incidence, an amplified transmission is
 observed in the 1st diffraction order (η&lt;sub&gt;0&lt;/sub&gt; ∼ 0.04; η&lt;sub&gt;1&lt;/sub&gt; ∼ 0.80). With increasing non-Hermiticity factor γ, the asymmetry in transmission increases. The highest
 asymmetry with an asymmetry factor of ∼ 0.9 is observed at λ = 655 nm. We explained the physics behind the observed asymmetry and showed an alternate path to realize on-chip reconfigurable nanophotonic devices.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;Beam steering.png&#34; alt=&#34;ACS 2021&#34;  width=&#34;100%&#34; height=&#34;100&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://jinaltapar.github.io/blob/main/content/project/Dynamic Tunability/Beam steering.png&#34; alt=&#34;ACS 2021&#34;  width=&#34;100%&#34; height=&#34;100&#34; /&gt;&lt;/p&gt;
 &lt;p style=&#34;text-align: center;&#34;&gt;&lt;b&gt;Figure 2:&lt;/b&gt; Dynamic modulation of gain-loss in PT-symmetric phase gradient metasurface exhibits asymmetric angular response of transmission. Further details can be found in reference [1].&lt;/p&gt;
 &lt;h4 id=&#34;references&#34;&gt;References&lt;/h4&gt;
 &lt;ol&gt;
