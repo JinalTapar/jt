@@ -69,7 +69,7 @@ stacked GaInP metasurface. For loss side normal incidence, the transmission is p
 (η&lt;sub&gt;0&lt;/sub&gt; ∼ 0.80; η&lt;sub&gt;1&lt;/sub&gt; ∼ 0.18). In contrast, for gain side incidence, an amplified transmission is
 observed in the 1st diffraction order (η&lt;sub&gt;0&lt;/sub&gt; ∼ 0.04; η&lt;sub&gt;1&lt;/sub&gt; ∼ 0.80). With increasing non-Hermiticity factor γ, the asymmetry in transmission increases. The highest
 asymmetry with an asymmetry factor of ∼ 0.9 is observed at λ = 655 nm. We explained the physics behind the observed asymmetry and showed an alternate path to realize on-chip reconfigurable nanophotonic devices.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://jinaltapar.github.io/blob/main/content/project/Dynamic Tunability/Beam steering.png&#34; alt=&#34;ACS 2021&#34;  width=&#34;100%&#34; height=&#34;100&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;Beam steering.png&#34; alt=&#34;ACS 2021&#34;  width=&#34;100%&#34; height=&#34;100&#34; /&gt;&lt;/p&gt;
 &lt;p style=&#34;text-align: center;&#34;&gt;&lt;b&gt;Figure 2:&lt;/b&gt; Dynamic modulation of gain-loss in PT-symmetric phase gradient metasurface exhibits asymmetric angular response of transmission. Further details can be found in reference [1].&lt;/p&gt;
 &lt;h4 id=&#34;references&#34;&gt;References&lt;/h4&gt;
 &lt;ol&gt;
@@ -110,12 +110,12 @@ is dominated by efforts to synthesize the effective permittivity and permeabilit
 index profile of the form ∼ n(x) = n&lt;sup&gt;∗&lt;/sup&gt;(x). This imposes a constraint of securing balanced gain and loss distribution in the system. The interplay of gain-loss contrast and coupling in PT-symmetric systems has manifested as a number of intriguing breakthrough effects like single-mode lasing, unidirectional invisibility, (coherent perfect absorber) CPA-laser, &lt;em&gt;etc.&lt;/em&gt;
 (See recent review articles [1,2] on parity-time symmetry in optics)&lt;/p&gt;
 &lt;h4 id=&#34;pt-symmetric-semiconductor-nanoantenna-metasurface&#34;&gt;PT-symmetric semiconductor nanoantenna metasurface&lt;/h4&gt;
-&lt;p&gt;For realizing active nanophotonic devices, it is paramount to design a dielectric nanocavity that can confine light both in space and time, &lt;em&gt;i.e.&lt;/em&gt;, a high Q-cavity with a small modal volume.
-In this work, we investigated vertically stacked GaInP PT-symmetric nanodisk resonators arranged in two-dimensional periodic lattice using full-wave numerical simulations and scattering matrix theory.
-The proposed dielectric metasurface supports scattering anomalies called lasing spectral singularities (SS). At SS, the scattering coefficients (transmission and reflection) diverge to large values, corresponding to the lasing threshold.
+&lt;p&gt;For realizing active nanophotonic devices, it is paramount to design a dielectric nanocavity that can confine light both in space and time, &lt;em&gt;i.e.&lt;/em&gt;, a high Q-cavity with a small modal volume. 
+In this work, we investigated vertically stacked GaInP PT-symmetric nanodisk resonators arranged in two-dimensional periodic lattice using full-wave numerical simulations and scattering matrix theory. 
+The proposed dielectric metasurface supports scattering anomalies called lasing spectral singularities (SS). At SS, the scattering coefficients (transmission and reflection) diverge to large values, corresponding to the lasing threshold. 
 This lasing spectral singularities can occur only in the presence of gain and being poles of the scattering matrix at real frequencies, imply zero-width resonances. We showed that the far-field scattering
 response at the spectral singularity is highly asymmetric for incidence from the gain and loss sides.
-The anisotropic directional response of SS in the proposed PT -symmetric nanoantenna array can be tuned to show predominant scattering toward either side of the structure by changing the lattice periodicities.
+The anisotropic directional response of SS in the proposed PT -symmetric nanoantenna array can be tuned to show predominant scattering toward either side of the structure by changing the lattice periodicities. 
 Our analysis suggests that a proper combination of geometry, gain, and subwavelength resonances provides flexibility for designing tunable and directional nanophotonic light sources employing non-Hermitian physics.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;SS1.png&#34; alt=&#34;OL 2020&#34;  width=&#34;100%&#34; height=&#34;100&#34; /&gt;&lt;/p&gt;
 &lt;p style=&#34;text-align: center;&#34;&gt;&lt;b&gt;Figure 2:&lt;/b&gt; PT symmetric nanostructures can be designed to exhibit extremely narrow-width resonances known as Spectral Singularities.  Further details can be found in reference [3].&lt;/p&gt;
