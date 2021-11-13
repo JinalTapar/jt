@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Webpage of Jinal Tapar</title>
+    <link>https://iith.ac.in/project/</link>
+      <atom:link href="https://iith.ac.in/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Thu, 11 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://iith.ac.in/images/icon_hu0b8d0877f4ef6418f3f6b304de70bea8_44481_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>https://iith.ac.in/project/</link>
+    </image>
+    
+    <item>
+      <title>Beam steering through dynamic gain-loss modulation</title>
+      <link>https://iith.ac.in/project/dynamic-tunability/</link>
+      <pubDate>Thu, 11 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://iith.ac.in/project/dynamic-tunability/</guid>
+      <description>&lt;p&gt;One of the major issues with active nanophotonic devices is the lack of post-fabrication dynamic
+control of light. The techniques employed in the literature limit large-scale integration due to the
+small modulation depth or the slow speed. We propose a PT-symmetric phase gradient metasurface
+to tune the intensity and angular response of light through dynamic material gain-loss modulation.&lt;/p&gt;
+&lt;h4 id=&#34;phase-gradient-pt-symmetric-semiconductor-metasurface&#34;&gt;Phase-gradient PT-symmetric semiconductor metasurface&lt;/h4&gt;
+&lt;p&gt;Our approach supports tunable asymmetric transmission for gain or loss side incidence in a vertically
+stacked GaInP metasurface. For loss side normal incidence, the transmission is predominantly in the 0th diffraction order
+(η&lt;sub&gt;0&lt;/sub&gt; ∼ 0.80; η&lt;sub&gt;1&lt;/sub&gt; ∼ 0.18). In contrast, for gain side incidence, an amplified transmission is
+observed in the 1st diffraction order (η&lt;sub&gt;0&lt;/sub&gt; ∼ 0.04; η&lt;sub&gt;1&lt;/sub&gt; ∼ 0.80). With increasing non-Hermiticity factor γ, the asymmetry in transmission increases. The highest
+asymmetry with an asymmetry factor of ∼ 0.9 is observed at λ = 655 nm. We explained the physics behind the observed asymmetry and showed an alternate path to realize on-chip reconfigurable nanophotonic devices.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;Beam steering.png&#34; alt=&#34;ACS 2021&#34;  width=&#34;100%&#34; height=&#34;100&#34; /&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;&lt;b&gt;Figure 2:&lt;/b&gt; Dynamic modulation of gain-loss in PT-symmetric phase gradient metasurface exhibits asymmetric angular response of transmission. Further details can be found in reference [1].&lt;/p&gt;
+&lt;h4 id=&#34;references&#34;&gt;References&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;b&gt;Jinal Kiran Tapar&lt;/b&gt;, Saurabh Kishen, Naresh Kumar Emani. &lt;a href=&#34;https://pubs.acs.org/doi/10.1021/acsphotonics.1c01178?ref=pdf&#34;&gt;Dynamically Tunable Asymmetric Transmission in PT-Symmetric Phase Gradient Metasurface.&lt;/a&gt; &lt;em&gt; ACS Photonics&lt;/em&gt;, ASAP article (2021).&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Optical Gain in Semiconductor Nanostructures</title>
+      <link>https://iith.ac.in/project/optical-gain/</link>
+      <pubDate>Thu, 11 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://iith.ac.in/project/optical-gain/</guid>
+      <description>&lt;p&gt;Optical gain in semiconductor nanostructures plays a crucial role in designing active, PT-symmetric nanophotonic devices. However, when the III-V
+semiconductor structures are scaled down to the nanoscale dimensions, the non-radiative processes, primarily surface recombination lower the overall optical gain due to an increased surface-to-volume
+ratio. For the practical realization of PT nanophotonic devices, it is essential to investigate the impact of surface recombination on optical gain in III-V semiconductor nanostructures. First, we
+discuss our numerical investigation of carrier dynamics in GaAs nanocylinder on optical pumping, which enabled us to estimate the qualitative and quantitative impact of surface recombination on
+the optical gain. Through this study we provide a straightforward approach for enhancing the luminescence quantum yield of III-V semiconductor nanostructures by using p-doped active material.&lt;/p&gt;
+&lt;h4 id=&#34;impact-of-the-carrier-surface-recombination-on-the-optical-gain&#34;&gt;Impact of the carrier surface recombination on the optical gain&lt;/h4&gt;
+&lt;p&gt;Our numerical investigation of carrier dynamics in GaAs nanocylinder on optical pumping lead us to estimate the qualitative and quantitative impact of surface recombination on the optical gain. The optically induced carrier density is lower in nanocylinder due to the dangling bonds at the surface that give rise to recombination of electron hole pairs. With reduced dimensions of the nanostructures, surface area-to-volume (A/V) ratio increases, and therefore the lasing threshold also increases due to higher non-radiative surface recombination process. The optical gain and bandwidth both reduce with increasing surface recombination velocity (SRV). The study gives an insight that p-doping of active material and strain incorporation as a viable approach for enhancing luminescence quantum yield of III-V semiconductor nanostructures. This can complement the surface passivation techniques widely adopted in the III-V research community.
+&lt;img src=&#34;JAP_2020.png&#34; alt=&#34;JAP 2020&#34;  width=&#34;75%&#34; height=&#34;100&#34; /&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;&lt;b&gt;Figure 1:&lt;/b&gt; Impact of Surface Recombination and nanocylinder size on optical gain. Further details can be found in  reference [1]&lt;/p&gt;
+&lt;h4 id=&#34;references&#34;&gt;References&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;b&gt;Jinal Kiran Tapar&lt;/b&gt;, Saurabh Kishen, Kumar Prashant, Kaushik Nayak and Naresh Kumar Emani. &lt;a href=&#34;https://doi.org/10.1063/1.5132613&#34;&gt;Enhancement of the optical gain in GaAs nanocylinders for nanophotonic applications.&lt;/a&gt; &lt;em&gt; Journal of Applied Physics&lt;/em&gt;, &lt;b&gt;127&lt;/b&gt;, 153102 (2020).  [  &lt;a href=&#34;https://doi.org/10.1063/1.5132613&#34;&gt;doi&lt;/a&gt; |  &lt;a href=&#34;../../e-pubs/J13_JAP_Gain_in_GaAs_Nanocylinders_2020_Jinal.pdf&#34;&gt;pdf&lt;/a&gt; ]&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Spectral Singularities in PT-symmetric Metasurfaces</title>
+      <link>https://iith.ac.in/project/spectral-singularities/</link>
+      <pubDate>Thu, 11 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://iith.ac.in/project/spectral-singularities/</guid>
+      <description>&lt;p&gt;Recent years have seen tremendous progress in implementing metamaterials and metasurfaces to control light-matter dynamics. Metasurfaces are two-dimensional (2D) periodic
+arrangements of resonators used to control the intrinsic properties of light (&lt;em&gt;viz.&lt;/em&gt; phase, intensity, wavevector, and polarization). The landscape of metamaterials and metasurfaces
+is dominated by efforts to synthesize the effective permittivity and permeability along the real axis of parameter space. The  concept of (parity-time) PT symmetry has opened a fundamentally new chapter in photonics and expanded the toolbox of photonics by broadening the design parameter space. In the context of photonics, PT symmetry implies an
+index profile of the form ∼ n(x) = n&lt;sup&gt;∗&lt;/sup&gt;(x). This imposes a constraint of securing balanced gain and loss distribution in the system. The interplay of gain-loss contrast and coupling in PT-symmetric systems has manifested as a number of intriguing breakthrough effects like single-mode lasing, unidirectional invisibility, (coherent perfect absorber) CPA-laser, &lt;em&gt;etc.&lt;/em&gt;
+(See recent review articles [1,2] on parity-time symmetry in optics)&lt;/p&gt;
+&lt;h4 id=&#34;pt-symmetric-semiconductor-nanoantenna-metasurface&#34;&gt;PT-symmetric semiconductor nanoantenna metasurface&lt;/h4&gt;
+&lt;p&gt;For realizing active nanophotonic devices, it is paramount to design a dielectric nanocavity that can confine light both in space and time, &lt;em&gt;i.e.&lt;/em&gt;, a high Q-cavity with a small modal volume.
+In this work, we investigated vertically stacked GaInP PT-symmetric nanodisk resonators arranged in two-dimensional periodic lattice using full-wave numerical simulations and scattering matrix theory.
+The proposed dielectric metasurface supports scattering anomalies called lasing spectral singularities (SS). At SS, the scattering coefficients (transmission and reflection) diverge to large values, corresponding to the lasing threshold.
+This lasing spectral singularities can occur only in the presence of gain and being poles of the scattering matrix at real frequencies, imply zero-width resonances. We showed that the far-field scattering
+response at the spectral singularity is highly asymmetric for incidence from the gain and loss sides.
+The anisotropic directional response of SS in the proposed PT -symmetric nanoantenna array can be tuned to show predominant scattering toward either side of the structure by changing the lattice periodicities.
+Our analysis suggests that a proper combination of geometry, gain, and subwavelength resonances provides flexibility for designing tunable and directional nanophotonic light sources employing non-Hermitian physics.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;SS1.png&#34; alt=&#34;OL 2020&#34;  width=&#34;100%&#34; height=&#34;100&#34; /&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;&lt;b&gt;Figure 2:&lt;/b&gt; PT symmetric nanostructures can be designed to exhibit extremely narrow-width resonances known as Spectral Singularities.  Further details can be found in reference [3].&lt;/p&gt;
+&lt;h4 id=&#34;references&#34;&gt;References&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;Özdemir, Ş., Rotter, S., Nori, F., Yang, L., &lt;a href=&#34;https://www.nature.com/articles/s41563-019-0304-9&#34;&gt; Parity–time symmetry and exceptional points in photonics. &lt;/a&gt; &lt;em&gt;Nature Materials &lt;/em&gt;, &lt;b&gt;18&lt;/b&gt; (8), 783-798 (2019).&lt;/li&gt;
+&lt;li&gt;Alex Krasnok, Denis Baranov, Huanan Li, Mohammad-Ali Miri, Francesco Monticone, and Andrea Alú, &lt;a href=&#34;https://www.osapublishing.org/aop/abstract.cfm?uri=aop-11-4-892&#34;&gt; Anomalies in light scattering. &lt;/a&gt; Advances in Optics and Photonics. &lt;b&gt;11&lt;/b&gt;, 892-951 (2019)&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Jinal Kiran Tapar&lt;/b&gt;, Saurabh Kishen, Naresh Kumar Emani. &lt;a href=&#34;https://www.osapublishing.org/ol/abstract.cfm?uri=ol-45-18-5185&#34;&gt;Spectral singularities and asymmetric light scattering in PT-symmetric 2D nanoantenna arrays.&lt;/a&gt; &lt;em&gt; Optics Letters&lt;/em&gt;, &lt;b&gt;45&lt;/b&gt;, 18, pp. 5185-5188 (2020).&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
