@@ -13,20 +13,20 @@ superuser: true
 role: PhD graduate
 
 # Organizations/Affiliations
-organizations:
+Organizations:
 - name: Indian Institute of Technology Hyderabad
   url: "https://iith.ac.in"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Jinal Tapar is a PhD graduate from Electrical Engineering, IIT Hyderabad.
 
-interests:
+Interests:
 - Active Nanophotonics
 - Semiconductor Metasurfaces
 - Non-Hermitian Photonics
 - Simulation and Modeling
 
-education:
+Education:
   courses:
   - course: PhD in Electrical Engineering
     institution: Indian Institute of Technology Hyderabad
@@ -59,7 +59,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/Jinal_CV_2021.pdf
+  link: https://github.com/JinalTapar/jt/blob/main/static/files/Jinal_CV_2021.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
