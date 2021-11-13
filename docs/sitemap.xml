@@ -1,50 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>//jinaltapar.github.io/pre-iith/</loc>
-  </url>
-  
-  <url>
-    <loc>//jinaltapar.github.io/project/dynamic-tunability/</loc>
+    <loc>https://jinaltapar.github.io/jt/pre-iith/</loc>
+  </url><url>
+    <loc>https://jinaltapar.github.io/jt/project/dynamic-tunability/</loc>
     <lastmod>2021-11-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//jinaltapar.github.io/project/optical-gain/</loc>
+  </url><url>
+    <loc>https://jinaltapar.github.io/jt/project/optical-gain/</loc>
     <lastmod>2021-11-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//jinaltapar.github.io/project/</loc>
+  </url><url>
+    <loc>https://jinaltapar.github.io/jt/project/</loc>
     <lastmod>2021-11-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//jinaltapar.github.io/project/spectral-singularities/</loc>
+  </url><url>
+    <loc>https://jinaltapar.github.io/jt/project/spectral-singularities/</loc>
     <lastmod>2021-11-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//jinaltapar.github.io/</loc>
+  </url><url>
+    <loc>https://jinaltapar.github.io/jt/</loc>
     <lastmod>2021-11-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jinaltapar.github.io/jt/authors/jinal/</loc>
+  </url><url>
+    <loc>https://jinaltapar.github.io/jt/authors/</loc>
+  </url><url>
+    <loc>https://jinaltapar.github.io/jt/categories/</loc>
+  </url><url>
+    <loc>https://jinaltapar.github.io/jt/tags/</loc>
   </url>
-  
-  <url>
-    <loc>//jinaltapar.github.io/authors/jinal/</loc>
-  </url>
-  
-  <url>
-    <loc>//jinaltapar.github.io/authors/</loc>
-  </url>
-  
-  <url>
-    <loc>//jinaltapar.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>//jinaltapar.github.io/tags/</loc>
-  </url>
-  
 </urlset>
