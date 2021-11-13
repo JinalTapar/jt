@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Webpage of Jinal Tapar</title>
-    <link>https://jinaltapar.github.io/authors/jinal/</link>
-      <atom:link href="https://jinaltapar.github.io/authors/jinal/index.xml" rel="self" type="application/rss+xml" />
+    <link>//jinaltapar.github.io/authors/jinal/</link>
+      <atom:link href="//jinaltapar.github.io/authors/jinal/index.xml" rel="self" type="application/rss+xml" />
     <description>Webpage of Jinal Tapar</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright>
     <image>
-      <url>https://jinaltapar.github.io/images/icon_hu0b8d0877f4ef6418f3f6b304de70bea8_44481_512x512_fill_lanczos_center_2.png</url>
+      <url>//jinaltapar.github.io/images/icon_hu0b8d0877f4ef6418f3f6b304de70bea8_44481_512x512_fill_lanczos_center_2.png</url>
       <title>Webpage of Jinal Tapar</title>
-      <link>https://jinaltapar.github.io/authors/jinal/</link>
+      <link>//jinaltapar.github.io/authors/jinal/</link>
     </image>
     
   </channel>
