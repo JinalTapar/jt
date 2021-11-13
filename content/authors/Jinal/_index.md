@@ -60,10 +60,14 @@ social:
 - icon: cv
   icon_pack: ai
 <<<<<<< HEAD
+<<<<<<< HEAD
   link: https://github.com/JinalTapar/jt/blob/main/docs/files/Jinal_CV_2021.pdf
 =======
   link: https://github.com/JinalTapar/jt/blob/main/static/files/Jinal_CV_2021.pdf
 >>>>>>> b4924f6d2383939cc98256754763c520800bd283
+=======
+  link: https://github.com/JinalTapar/jt/blob/main/docs/files/Jinal_CV_2021.pdf
+>>>>>>> a3aa020ddd2686da6d83e21e04fc16bc349e5fc7
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
