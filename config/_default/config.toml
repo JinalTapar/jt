@@ -11,7 +11,7 @@ logo="logo.png"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://iith.ac.in/`.
-baseurl = "http://jinaltapar.github.io/jt/"
+baseurl = "https://jinaltapar.github.io/jt/"
 publishDir = "docs"
 
 # Enter a copyright notice to display in the site footer.
