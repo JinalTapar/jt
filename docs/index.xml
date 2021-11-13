@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Webpage of Jinal Tapar</title>
-    <link>https://jinaltapar.github.io/</link>
-      <atom:link href="https://jinaltapar.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>//jinaltapar.github.io/</link>
+      <atom:link href="//jinaltapar.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Webpage of Jinal Tapar</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Thu, 11 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jinaltapar.github.io/images/icon_hu0b8d0877f4ef6418f3f6b304de70bea8_44481_512x512_fill_lanczos_center_2.png</url>
+      <url>//jinaltapar.github.io/images/icon_hu0b8d0877f4ef6418f3f6b304de70bea8_44481_512x512_fill_lanczos_center_2.png</url>
       <title>Webpage of Jinal Tapar</title>
-      <link>https://jinaltapar.github.io/</link>
+      <link>//jinaltapar.github.io/</link>
     </image>
     
     <item>
       <title></title>
-      <link>https://jinaltapar.github.io/pre-iith/</link>
+      <link>//jinaltapar.github.io/pre-iith/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jinaltapar.github.io/pre-iith/</guid>
+      <guid>//jinaltapar.github.io/pre-iith/</guid>
       <description>&lt;h3 id=&#34;publications-before-joining-iith&#34;&gt;Publications before joining IITH&lt;/h3&gt;
 &lt;h4 id=&#34;dielectric-nanophotonics----based-on-postdoc-research-at-dsi&#34;&gt;Dielectric Nanophotonics  - based on postdoc research at DSI&lt;/h4&gt;
 &lt;ol reversed start=12&gt;
@@ -56,9 +56,9 @@
     
     <item>
       <title>Beam steering through dynamic gain-loss modulation</title>
-      <link>https://jinaltapar.github.io/project/dynamic-tunability/</link>
+      <link>//jinaltapar.github.io/project/dynamic-tunability/</link>
       <pubDate>Thu, 11 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://jinaltapar.github.io/project/dynamic-tunability/</guid>
+      <guid>//jinaltapar.github.io/project/dynamic-tunability/</guid>
       <description>&lt;p&gt;One of the major issues with active nanophotonic devices is the lack of post-fabrication dynamic
 control of light. The techniques employed in the literature limit large-scale integration due to the
 small modulation depth or the slow speed. We propose a PT-symmetric phase gradient metasurface
@@ -80,9 +80,9 @@ asymmetry with an asymmetry factor of ∼ 0.9 is observed at λ = 655 nm. We exp
     
     <item>
       <title>Optical Gain in Semiconductor Nanostructures</title>
-      <link>https://jinaltapar.github.io/project/optical-gain/</link>
+      <link>//jinaltapar.github.io/project/optical-gain/</link>
       <pubDate>Thu, 11 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://jinaltapar.github.io/project/optical-gain/</guid>
+      <guid>//jinaltapar.github.io/project/optical-gain/</guid>
       <description>&lt;p&gt;Optical gain in semiconductor nanostructures plays a crucial role in designing active, PT-symmetric nanophotonic devices. However, when the III-V
 semiconductor structures are scaled down to the nanoscale dimensions, the non-radiative processes, primarily surface recombination lower the overall optical gain due to an increased surface-to-volume
 ratio. For the practical realization of PT nanophotonic devices, it is essential to investigate the impact of surface recombination on optical gain in III-V semiconductor nanostructures. First, we
@@ -101,9 +101,9 @@ the optical gain. Through this study we provide a straightforward approach for e
     
     <item>
       <title>Spectral Singularities in PT-symmetric Metasurfaces</title>
-      <link>https://jinaltapar.github.io/project/spectral-singularities/</link>
+      <link>//jinaltapar.github.io/project/spectral-singularities/</link>
       <pubDate>Thu, 11 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://jinaltapar.github.io/project/spectral-singularities/</guid>
+      <guid>//jinaltapar.github.io/project/spectral-singularities/</guid>
       <description>&lt;p&gt;Recent years have seen tremendous progress in implementing metamaterials and metasurfaces to control light-matter dynamics. Metasurfaces are two-dimensional (2D) periodic
 arrangements of resonators used to control the intrinsic properties of light (&lt;em&gt;viz.&lt;/em&gt; phase, intensity, wavevector, and polarization). The landscape of metamaterials and metasurfaces
 is dominated by efforts to synthesize the effective permittivity and permeability along the real axis of parameter space. The  concept of (parity-time) PT symmetry has opened a fundamentally new chapter in photonics and expanded the toolbox of photonics by broadening the design parameter space. In the context of photonics, PT symmetry implies an
